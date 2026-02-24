@@ -112,7 +112,15 @@ Output vedio
 
 
 
-https://github.com/user-attachments/assets/78404e69-101a-4dcf-bb50-2646bee7b32a
+
+
+
+https://github.com/user-attachments/assets/10d1b296-8d14-4ffa-8bc3-bac28ce2a27e
+
+
+
+
+
 
 
 Result: Real-time tracking and blurring of surrounding people throughout the video duration.
